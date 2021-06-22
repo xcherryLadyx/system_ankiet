@@ -1,9 +1,9 @@
-## System ankiet
+# System ankiet
 
 Projekt i implemetacja systemu webowego umożliwiającego tworzenie oraz uzupełnianie ankiet.
 System zapewnia pełną anonimowość użytkowników.
 
-# Wykorzystane technologie
+## Wykorzystane technologie
 
 - HTML
 - CSS
@@ -11,7 +11,7 @@ System zapewnia pełną anonimowość użytkowników.
 - JavaScript
 - MySQL
 
-# Funkcjonalność
+## Funkcjonalność
 
 - Rejestracja użytkowników
 - Logowanie użytwkoników
@@ -24,8 +24,8 @@ System zapewnia pełną anonimowość użytkowników.
 - Możliwość sprawdzenia, które z przydzielonych osób wypełniły ankietę, a które jeszcze powinny to zrobić
 
 
-# Dokumentacja
+## Dokumentacja
 
 
-# Autor
+## Autor
 Marcelina Woźniak
