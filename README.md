@@ -1,4 +1,4 @@
-# System ankiet
+## System ankiet
 
 Projekt i implemetacja systemu webowego umożliwiającego tworzenie oraz uzupełnianie ankiet.
 System zapewnia pełną anonimowość użytkowników.
