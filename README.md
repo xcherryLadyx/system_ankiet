@@ -26,6 +26,7 @@ System zapewnia pełną anonimowość użytkowników.
 
 ## Dokumentacja
 
+[Link](http://dokumentacja.getenjoyment.net/files.html) do dokumentacji projektu
 
 ## Autor
 Marcelina Woźniak
